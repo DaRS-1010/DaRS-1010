@@ -1,14 +1,14 @@
 <h2 align="center">👋 Hello and welcome to my profile!😃</h2>
 
-<img align='right' src='I/LG.png' width='28%'>  
+<img align='right' src='I/LG.png' width='25%'>  
 
 
 {  
 
 * 🎙️ `My name is`: **DaRS**  
 * 👤 `Pronouns`: **He/Him**  
-* ⚡ `I'm`: **♾️ years old (ageless hacker)**  
-* 🌱 `Currently learning`: **Cybersecurity & Red Team skills**  
+* ⚡ `I'm`: **♾️ years old**  
+* 🌱 `Currently learning`: **Cybersecurity, Red Team skills & IoT Security**  
 * ❤️ `Passion`: **Constant learning & challenges**  
 * 💻 `Favorite languages`: **Python & Bash**  
 
