@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello and welcome to my profile!😃</h2>
 
-<img align='right' src='I/LG.png' width='30%'>  
+<img align='right' src='I/LG.png' width='28%'>  
 
 
 {  
