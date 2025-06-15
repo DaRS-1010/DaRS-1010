@@ -21,9 +21,3 @@
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaRS-1010&layout=compact&hide_border=true&theme=vision-friendly-dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DaRS-1010&theme=vision-friendly-dark&hide_border=true&background=FFFFFF00">
 </p>
-
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DaRS-1010&repo=OverTheWire-Wargames&theme=vision-friendly-dark" />
-
-
-
