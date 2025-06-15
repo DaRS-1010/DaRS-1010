@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://co.pinterest.com/pin/61150507448604814/"/>
+</p>
+
 <h2 align="center">👋 Hello and welcome to my profile!😃</h2>
 
 {  
