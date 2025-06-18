@@ -14,6 +14,14 @@
 
 }
 
+Welcome to my GitHub 😃
+
+For a long time, I worked on projects privately, but I’ve recently decided to start sharing them publicly. I’ll be uploading tools, scripts, proof of concepts, and other small creations I've developed as I continue learning about cybersecurity and development.
+
+My goal is not only to showcase what I know, but also to learn through community and teach what I’ve learned. Each repository will be a step forward — to grow, improve, and contribute something meaningful.
+
+👨‍💻 Thanks for stopping by! If anything here helps or inspires you, I’d love to know.
+
 <h2 align="center">🌐 Statistics</h2>
 
 <p align="center">
