@@ -1,28 +1,28 @@
-<h2 align="center">👋 Hello and welcome to my profile! </h2>
+<h2 align="center">👋 Welcome to my GitHub</h2>
 
-<img align='right' src='I/LG.png' width='25%'>  
+<img align="right" src="I/LG.png" width="25%" />
 
+### 🧠 About Me
 
-{  
+- **Alias**: DaRS  
+- **Pronouns**: He/Him  
+- **Experience**: Cybersecurity Technician  
+- **Focus**: Red Teaming | OSINT | IoT Security  
+- **Languages**: Python & Bash  
+- **Mindset**: Learn. Break. Build. Repeat.  
 
-* 🎙️ `My name is`: **DaRS**  
-* 👤 `Pronouns`: **He/Him**  
-* ⚡ `I'm`: **♾️ years old**  
-* 🌱 `Currently learning`: **Cybersecurity, Red Team skills & IoT Security**  
-* ❤️ `Passion`: **Constant learning & challenges**  
-* 💻 `Favorite languages`: **Python & Bash**  
+---
+I’m a cybersecurity technician who’s just starting to share things publicly.
 
-}
+Most of my learning has been hands-on — testing tools, breaking things (on purpose), and going down rabbit holes in OSINT, Red Team, and dark web research.
 
-Welcome to my GitHub 😃
+This GitHub is where I’ll be uploading small tools, experiments, and anything I build or break while learning.  
+It’s not perfect, but it’s real. And hopefully, it helps someone else too.
 
-For a long time, I worked on projects privately, but I’ve recently decided to start sharing them publicly. I’ll be uploading tools, scripts, proof of concepts, and other small creations I've developed as I continue learning about cybersecurity and development.
+> *"Every repo is a snapshot of what I’ve learned — and what I’m still figuring out."*
+---
 
-My goal is not only to showcase what I know, but also to learn through community and teach what I’ve learned. Each repository will be a step forward — to grow, improve, and contribute something meaningful.
-
-👨‍💻 Thanks for stopping by! If anything here helps or inspires you, I’d love to know.
-
-<h2 align="center">🌐 Statistics</h2>
+### 🌐 Stats & Activity
 
 <p align="center">
   <img 
@@ -43,4 +43,17 @@ My goal is not only to showcase what I know, but also to learn through community
     height="180px" 
     alt="GitHub Streak"
   />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
+If you find something useful, have questions, or want to collaborate — feel free to reach out or follow my work.  
+🛠️ Tools and knowledge are better when shared.
+
+<p align="center">
+  <a href="https://x.com/RS99899" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X Profile"/>
+  </a>
 </p>
