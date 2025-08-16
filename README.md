@@ -53,7 +53,7 @@ If you find something useful, have questions, or want to collaborate — feel fr
 🛠️ Tools and knowledge are better when shared.
 
 <p align="center">
-  <a href="https://x.com/RS99899" target="_blank">
+  <a href="https://x.com/0x_0xxy" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X Profile"/>
   </a>
 </p>
